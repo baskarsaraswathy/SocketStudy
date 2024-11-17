@@ -95,5 +95,35 @@ s.send("acknowledgement received from the server".encode())
 # SERVER:
 ![image](https://github.com/user-attachments/assets/53387357-bc53-4e15-a7a3-c05f66e3b15f)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Result:
 Thus the study of Socket Programming Completed Successfully
